@@ -10,7 +10,7 @@ VEID for Salesforce CPQ Winter '18 version  210.15
 
 CEID for Salesforce CPQ Summer '17 version 210.13
 
-VEID for Salesforce CPQ Summer '17 version 210.13
+<a href="www.google.com">VEID for Salesforce CPQ Summer '17 version 210.13</a>
 
 For information about other versions, contact support@prodly.co.
 Prodly intends to validate future versions as they become available.
